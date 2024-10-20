@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
+My stathystics:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlandiosouza)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlandiosouza)](https://github.com/anuraghazra/github-readme-stats)
